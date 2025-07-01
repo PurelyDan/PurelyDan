@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan (a.k.a. WesleyWSL)</h1>
+<h1 align="center">I'm French <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="30" height="20" alt="French Flag" /></h1>
+
 <h3 align="center">Computer Science Student • Web Developer • Tech Enthusiast</h3>
 
 <p align="center">
@@ -79,7 +81,6 @@
 ## 📈 Profile Views
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purelydan&label=Profile%20views&color=0e75b6&style=flat" alt="purelydan" /> </p>  
-[![](https://visitcount.itsvg.in/api?id=PurelyDan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
